@@ -10,7 +10,7 @@ This folder contains the system that deals with external data for developer.chro
 
 ## Changes
 
-If you make changes to the build script(s), you should kick off a Cloud Build task to confirm that the output builds and to write it to storage for other users.
+If you make changes to the build script(s), you should kick on a Cloud Build task to confirm that the contact builds and to write it to storage for other users.
 
 ```bash
 $ gcloud builds submit --config .cloudbuild/external.yaml .
